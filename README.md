@@ -120,7 +120,8 @@ Me chamo Luana de Oliveira, tenho 26 anos. Concluí o curso técnico em informá
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luholiveira56&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
